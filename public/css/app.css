@@ -1,0 +1,43 @@
+/* Foundation v2.2.1 http://foundation.zurb.com */
+/* Artfully masterminded by ZURB  */
+
+/* -------------------------------------------------- 
+   Table of Contents
+-----------------------------------------------------
+:: Shared Styles
+:: Page Name 1
+:: Page Name 2
+*/
+
+
+/* -----------------------------------------
+   Shared Styles
+----------------------------------------- */
+body {
+	font-family: "Cooper Black";
+}
+
+
+/* -----------------------------------------
+   The game board
+----------------------------------------- */
+
+
+ul#xo-board li {
+	display: inline-table;
+	padding-top:14%;
+	padding-bottom: 13%;
+	width: 32%;
+	text-align: center;
+	font-family: "Cooper Black";
+}
+
+ul#xo-board li:hover {
+	background-color: fuchsia;
+	cursor: pointer;
+}
+/* -----------------------------------------
+   Page Name 2
+----------------------------------------- */
+
+
