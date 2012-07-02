@@ -1,0 +1,21 @@
+{
+	"name"			: "MediaTonicXO",
+	
+	"description"	: "Noughts and crosses game",
+	
+	"version"		: "0.1.0",
+	
+	"homepage"		: "https://github.com/slalompoint/MTXO",
+	
+	"author"		: "Mark Nguyen",  
+	
+	"engines" 		: { "node" : ">= 0.6.15" },
+	
+	"private"		: true,
+	
+	"dependencies" 	: {
+		"express" 				: ">=2.5.8",
+		"ejs" 						: ">=0.6.1",
+		"now" 						: ">=0.7"
+	}
+}
